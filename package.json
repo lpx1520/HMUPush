@@ -1,0 +1,24 @@
+{
+  "name": "hmupush",
+  "version": "1.0.0",
+  "description": "u-push plugin for cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "cordova": {
+    "id": "hmyd-upush-cordova",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "u-push",
+    "push",
+    "cordova",
+    "ionic"
+  ],
+  "author": "hmyd",
+  "license": "ISC"
+}
