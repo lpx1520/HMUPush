@@ -10,7 +10,7 @@
 
 
 添加： 
-cordova plugin add https://github.com/lpx1520/HMUPush-cordova-plugin.git --variable APP_KEY_I={iOS的Appkey} --variable APP_KEY_A={andriod的Appkey}  --variable APP_SECRET={andriod的App_secret}
+cordova plugin add https://github.com/lpx1520/HMUPush.git --variable APP_KEY_I={iOS的Appkey} --variable APP_KEY_A={andriod的Appkey}  --variable APP_SECRET={andriod的App_secret}
 
 移除：
 ionic cordova plugin rm hmyd-upush-cordova
