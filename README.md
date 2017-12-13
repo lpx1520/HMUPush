@@ -1,4 +1,4 @@
-# HMUPush-cordova-plugin
+# HMUPush
 
 
 声明：本插件非友盟提供。
