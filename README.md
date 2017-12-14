@@ -14,3 +14,8 @@ cordova plugin add https://github.com/lpx1520/HMUPush.git --variable APP_KEY_I={
 
 移除：
 ionic cordova plugin rm hmyd-upush-cordova
+
+
+注意：
+安卓如果无法获取到device token，并且log中显示"accs bindapp error!  accs.taobaoregister: onbindapp errorcode:-11"
+请参考http://bbs.umeng.com/thread-23018-1-1.html
