@@ -1,9 +1,11 @@
 # HMUPush
 
+UMPush for Cordova Plugin
 
 声明：本插件非友盟提供。
 
 实现功能：
+
 1：仅集成iOS、Android友盟推送。
 
 2：获取到设备的deviceId
